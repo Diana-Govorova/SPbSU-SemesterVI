@@ -1,0 +1,2 @@
+# SPbSU-SemesterVI
+Calculation methods
